@@ -1,0 +1,16 @@
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\bin\Debug\net5.0\Factory_design_pattern.exe
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\bin\Debug\net5.0\Factory_design_pattern.deps.json
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\bin\Debug\net5.0\Factory_design_pattern.runtimeconfig.json
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\bin\Debug\net5.0\Factory_design_pattern.runtimeconfig.dev.json
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\bin\Debug\net5.0\Factory_design_pattern.dll
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\bin\Debug\net5.0\ref\Factory_design_pattern.dll
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\bin\Debug\net5.0\Factory_design_pattern.pdb
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\obj\Debug\net5.0\Factory_design_pattern.csprojAssemblyReference.cache
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\obj\Debug\net5.0\Factory_design_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\obj\Debug\net5.0\Factory_design_pattern.AssemblyInfoInputs.cache
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\obj\Debug\net5.0\Factory_design_pattern.AssemblyInfo.cs
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\obj\Debug\net5.0\Factory_design_pattern.csproj.CoreCompileInputs.cache
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\obj\Debug\net5.0\Factory_design_pattern.dll
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\obj\Debug\net5.0\ref\Factory_design_pattern.dll
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\obj\Debug\net5.0\Factory_design_pattern.pdb
+C:\Users\hussa\source\repos\Factory_design_pattern\Factory_design_pattern\obj\Debug\net5.0\Factory_design_pattern.genruntimeconfig.cache
